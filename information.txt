@@ -1,2 +1,3 @@
 here is the .exe info
 "the first edit"
+"last information update at 7/1/2026"
